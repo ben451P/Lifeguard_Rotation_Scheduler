@@ -1,2 +1,0 @@
-- Want to save the last file generated into the database as well to compare results for the Logger
-- 
